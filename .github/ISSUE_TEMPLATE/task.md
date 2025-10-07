@@ -1,5 +1,5 @@
 ---
-name: 작업
+name: 태스크
 about: 일반적인 개발 작업이나 TODO 항목
 title: '[TASK] '
 labels: task
